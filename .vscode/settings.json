@@ -1,0 +1,8 @@
+{
+  "prettier.useTabs": false,
+  "editor.detectIndentation": false,
+  "[svelte]": {
+    "editor.formatOnSave": true,
+    "editor.defaultFormatter": "svelte.svelte-vscode"
+  }
+}
